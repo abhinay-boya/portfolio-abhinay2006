@@ -1,0 +1,25 @@
+{
+  "name": "alex-graham-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lenis": "^1.3.26",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.186.1",
+    "three-subdivide": "^1.1.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@vitejs/plugin-react": "^5.0.4",
+    "playwright-core": "^1.63.0",
+    "tailwindcss": "^4.1.14",
+    "vite": "^7.1.7"
+  }
+}
